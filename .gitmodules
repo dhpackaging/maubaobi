@@ -1,0 +1,3 @@
+[submodule "maubaobi"]
+	path = maubaobi
+	url = https://github.com/dhpackaging/maubaobi.git
